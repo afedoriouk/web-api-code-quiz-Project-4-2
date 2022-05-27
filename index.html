@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Web API Code Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!--Questions Container-->
+
+  <div class="questions-container">
+    <div class="quiz_title">
+      <span>Coding Quiz Challenge</span></div>
+      <div id="countdown"></div>
+   
+    <div id="main-container">
+      <div id="quiz-information-text">
+        <div id="quiz-questions-text"></div>
+        <p id="quiz-information-text">Try to answer the following code-related quations within the time limit. Keep in mind that incorrect
+          answers
+          will penalize your score time by ten seconds.</p>
+      </div>
+      <!-- Quiz button Start the Quiz -->
+      <div class="start-btn"><button id="start-btn">Start Quiz</button>
+       
+        <h3 id="question-btn"></h3>
+         <div id="answers-buttons"></div>
+        
+
+        <div id="question"></div>
+        <!-- <div id="answer"><button id="answer-button"></button></div> -->
+
+      </div>
+
+
+      <div id="question-container">
+        <p id="classList"></p>
+      </div>
+
+      <!-- Quiz button Exit the Quiz -->
+      <div class="exit_btn"><button>Exit Quiz</button>
+        <div class="continue_btn"><button>Continue</button>
+
+        </div>
+      </div>
+
+      <div id="results"></div>
+      <script defer src="./Assets/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,126 @@
+body {
+    background: white;
+}
+
+/* Start Quiz button CCS*/
+.start-btn button {
+    font-size: 28px;
+    font-weight: 650;
+    color: rgb(248, 209, 254);
+    padding: 20px 40px;
+    outline: none;
+    border-color: none;
+    border-radius: 7px;
+    background: purple;
+    cursor: pointer;
+}
+
+.answers-buttons {
+    font-size: 18px;
+    background: lightgray;
+    color: gray;
+}
+
+.hide {
+    display: none;
+}
+
+.quiz-questions-text {
+    width: 700px;
+    ;
+    height: 350px;
+    padding: 3;
+    margin: 3;
+    font-size: 20;
+    font-weight: 600;
+    color: black;
+    align-content: center;
+}
+
+.quiz_information_text {
+    width: 700px;
+    ;
+    height: 350px;
+    padding: 3;
+    margin: 3;
+    font-size: 20;
+    font-weight: 600;
+    color: black;
+    align-content: center;
+}
+
+.questions-container {
+    height: 350px;
+    width: 700px;
+    padding: 0 10px;
+    text-align: center;
+    border-radius: 7px;
+    align-items: center;
+    font-size: 18px;
+    background-color: rgb(237, 237, 237);
+    position: absolute;
+
+}
+
+.quiz_title {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 550;
+    color: rgb(14, 2, 138);
+    text-align: center;
+}
+
+.countdown {
+    font-size: 15;
+    padding: 0 10px;
+    color: black;
+    align-content: right;
+    position: absolute;
+    top: 3%;
+    left: 90%;
+}
+
+.start-btn {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.quiz_information_text span {
+
+    text-align: center;
+    text-align: top;
+}
+
+.exit_btn button {
+
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    height: 30px;
+    display: flex;
+    align-items: left;
+    justify-content: flex-end;
+    padding: 10px 40px 10px;
+    border-top: 1px solid lightgray;
+    border-radius: 5px;
+    margin: o 5px;
+}
+
+.continue_btn button {
+    position: absolute;
+    top: 90%;
+    left: 70%;
+    height: 30px;
+    display: flex;
+    align-items: right;
+    justify-content: flex-end;
+    padding: 10px 40px 10px;
+    border-top: 1px solid lightgray;
+    border-radius: 2px;
+    margin: o 5px;
+
+}
