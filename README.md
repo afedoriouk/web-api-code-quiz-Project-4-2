@@ -11,6 +11,7 @@ Include Buttons:<br>
 	• Next<br>
 	• Exit Quiz<br>
 	• Continue<br>
+		      
 <strong>HTML</strong><br>
 Newly created index.html file with:<br>
 < meta>, stylesheet <links>,<br>
@@ -29,7 +30,6 @@ Newly created script.js file with the:<br>
 list of functions<br>
 list of variables<br>
 list of eventListeners<br>
-
 Timer<br>
 startButton<br>
 displayQuestion<br>
