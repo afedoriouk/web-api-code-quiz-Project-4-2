@@ -7,14 +7,14 @@ Requirements:<br>
 • Time subtracted from the incorrect selected answers<br>
 • Display the score at the end of the quiz.<br>
 Include Buttons:<br>
-	• Start Quiz<br><br>
+	• Start Quiz<br>
 	• Next<br>
 	• Exit Quiz<br>
 	• Continue<br>
 		      
 <strong>HTML</strong><br>
 Newly created index.html file with:<br>
-< meta>, stylesheet <links>,<br>
+< meta>,stylesheet<links>,<br>
 <body><br>
 <div class="questions-container"><br>
 <div class="quiz_title"><br>
