@@ -16,8 +16,8 @@ Include Buttons:<br>
 Newly created index.html file with:<br>
 stylesheet<links>,<br>
 <body><br>
-<div class="questions-container"><br>
-<div class="quiz_title"><br>
+<questions-container><br>
+<quiz_title><br>
 Coding Quiz Challenge<br>
 <script>/Assets/script.js"></script><br>
 
