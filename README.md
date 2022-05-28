@@ -13,8 +13,8 @@ Include Buttons:<br>
 	• Continue<br>
 		      
 <strong>HTML</strong><br>
-Newly created index.html file with:<br>
-stylesheet<links>,<br>
+Newly created index.html file with<br>
+stylesheet<br>
 <body><br>
 <questions-container><br>
 <quiz_title><br>
