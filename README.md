@@ -14,7 +14,7 @@ Include Buttons:<br>
 		      
 <strong>HTML</strong><br>
 Newly created index.html file with:<br>
-< meta>,stylesheet<links>,<br>
+stylesheet<links>,<br>
 <body><br>
 <div class="questions-container"><br>
 <div class="quiz_title"><br>
