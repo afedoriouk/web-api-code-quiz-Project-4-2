@@ -1,11 +1,11 @@
-04 Web API: Code Quiz
+<strong>04 Web API: Code Quiz</strong>
 
 For this challenge customer requested to build a JavaScript Code Quiz.
 Requirements:
-Instructions on how to play the quiz
-Include timer when the quiz starts.
-Time subtracted from the incorrect selected answers
-Display the score at the end of the quiz.
+• Instructions on how to play the quiz
+• Include timer when the quiz starts.
+• Time subtracted from the incorrect selected answers
+• Display the score at the end of the quiz.
 Include Buttons:
 	• Start Quiz
 	• Next
