@@ -14,10 +14,15 @@ Include Buttons:<br>
 		      
 <strong>HTML</strong><br>
 Newly created index.html file with<br>
-<questions-container><br>
-<quiz_title><br>
-Coding Quiz Challenge<br>
-<script>/Assets/script.js"></script><br>
+•meta<br>
+•stylesheet<br>
+•links<br>
+•body<br>
+•questions-container<br>
+•quiz_title<br>
+•Coding Quiz Challenge<br>
+•script file<br>
+
 
 <strong>CSS</strong><br>
 Newly created styles.css file with appropriate stylesheets and requirements for the:
