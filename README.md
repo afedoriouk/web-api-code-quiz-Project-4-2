@@ -18,8 +18,8 @@ Newly created index.html file with:<br>
 <body><br>
 <div class="questions-container"><br>
 <div class="quiz_title"><br>
-<span>Coding Quiz Challenge</span><br>
-<script "./Assets/script.js"></script><br>
+Coding Quiz Challenge<br>
+<script>/Assets/script.js"></script><br>
 
 <strong>CSS</strong><br>
 Newly created styles.css file with appropriate stylesheets and requirements for the:
