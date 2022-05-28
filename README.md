@@ -14,8 +14,6 @@ Include Buttons:<br>
 		      
 <strong>HTML</strong><br>
 Newly created index.html file with<br>
-stylesheet<br>
-<body><br>
 <questions-container><br>
 <quiz_title><br>
 Coding Quiz Challenge<br>
